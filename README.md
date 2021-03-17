@@ -12,6 +12,6 @@
 - 🔭 Knowing everything IT-related stuff.
 
 ### Other
-- 📝 My personal website is [falgar.es](https://falgar.es)
+- 📝 My personal website is [sergi.falgar.es](https://sergi.falgar.es)
 - 📫 You can find me on Telegram @shaoran.
 - ⚡ I'm into anime, mostly shounen and mystery, and its OSTs.
