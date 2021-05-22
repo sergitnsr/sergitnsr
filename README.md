@@ -5,13 +5,14 @@
 
 ### What I'm doing?
 - 💻 Working on [ARASHI](https://arashi.io), creating Ghost websites and developing enteprise-grade apps.
-- 🌱 Learning Angular and Java in my spare time.
+- 🌱 Learning Angular in my spare time.
 
 ### What I'm interested in?
 - 📖 Reading sci-fi and dystopian novels.
+- 📫 Collecting everything Pokémon-related.
 - 🔭 Knowing everything IT-related stuff.
 
 ### Other
-- 📝 My personal website is [sergi.falgar.es](https://sergi.falgar.es)
+- 📝 My personal website is [falgar.es](https://falgar.es)
 - 📫 You can find me on Telegram @shaoran.
 - ⚡ I'm into anime, mostly shounen and mystery, and its OSTs.
