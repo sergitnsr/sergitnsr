@@ -4,12 +4,12 @@
 - 🌏 A nomad traveler, having visited more than 20 countries.
 
 ### What I'm doing?
-- 💻 Working on [ARASHI](https://arashi.io), creating Ghost websites and developing enteprise-grade apps.
-- 🌱 Learning Angular in my spare time.
+- 💻 Working on [ARASHI](https://arashi.io), creating websites and developing enteprise-grade apps.
+- 🌱 Learning Java & Angular in my spare time.
 
 ### What I'm interested in?
 - 📖 Reading sci-fi and dystopian novels.
-- 📫 Collecting everything Pokémon-related.
+- 📫 Collecting Pokémon cards & games.
 - 🔭 Knowing everything IT-related stuff.
 
 ### Other
