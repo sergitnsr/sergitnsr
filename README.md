@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Who am I?
-- ✨ A professional front-end developer.
+- ✨ A cybersecurity student.
 - 🌏 A nomad traveler, having visited more than 20 countries.
 
 ### What I'm doing?
