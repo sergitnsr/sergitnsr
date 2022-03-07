@@ -5,7 +5,7 @@
 
 ### What I'm doing?
 - 💻 Working on [ARASHI](https://arashi.io), creating websites and developing enteprise-grade apps.
-- 🌱 Learning Java & Angular in my spare time.
+- 🌱 Learning InfoSec & Read Team.
 
 ### What I'm interested in?
 - 📖 Reading sci-fi and dystopian novels.
