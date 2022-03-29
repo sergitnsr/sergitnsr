@@ -4,8 +4,8 @@
 - 🌏 A nomad traveler, having visited more than 20 countries.
 
 ### What I'm doing?
-- 💻 Working on [ARASHI](https://arashi.io), creating websites and developing enteprise-grade apps.
-- 🌱 Learning InfoSec & Read Team.
+- 💻 Part-time working on [ARASHI](https://arashi.io), creating websites.
+- 🌱 Learning Bash, sysadmin, automation & Red Teaming.
 
 ### What I'm interested in?
 - 📖 Reading sci-fi and dystopian novels.
@@ -15,5 +15,5 @@
 ### Other
 - 📝 My personal blog is [Dekimu](https://dekimu.com).
 - 📖 My student & meetup blog is [Free Wifi](https://freewifi.cat).
-- 📫 You can find me on Telegram @shaoran.
+- 📫 You can find me on Telegram @shaoran & on Keybase @sergitnsr.
 - ⚡ I'm into anime, mostly shounen and mystery, and its OSTs.
