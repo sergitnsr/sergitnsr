@@ -13,7 +13,7 @@
 - 🔭 Knowing everything IT-related stuff.
 
 ### Other
-- 📝 My personal blog is [falgar.es](https://dekimu.com).
+- 📝 My personal blog is [dekimu.com](https://dekimu.com).
 - 📖 My student & meetup blog is [freewifi.cat](https://freewifi.cat).
 - 📫 You can find me on Telegram @shaoran.
 - ⚡ I'm into anime, mostly shounen and mystery, and its OSTs.
